@@ -84,5 +84,9 @@ MacBook Pro Laptop had the highest sales value of \8037600.00, followed by iPhon
 5. Increase stock for high-volume, fast-selling products like USB-C Charging Cables, Wired Headphones, and 27-inch Monitors.
 6. Monitor low-selling SKUS and reduce overstock risks by discounting slow-moving items.
 
+ ## Tools Used.  
+ 
+ Python (pandas, matplotlib, and seaborn)
+
 ## Data Source
-This data was downloaded from Only Quality Data internship dataset. Download here [
+This data was downloaded from Only Quality Data (OQD) internship dataset. Download here 
