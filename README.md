@@ -1,6 +1,6 @@
 # ExpressMart-Sales-Analytics
 ## Project Overview
-**Introduction**
+### **Introduction**
 This report analyses transactional data from Express Mart, a growing e-commerce and retail business operating in major cities such as Los Angeles, Atlanta, Dallas, New York City, and San Francisco. Although Express Mart has consistently achieved strong sales figures, management seeks to enhance overall business performance by understanding customer purchase behaviour, identifying sales trends, and optimising operational efficiency across its locations.
 
 The dataset under review comprises 185,950 transaction records, capturing detailed information on product sales, quantity ordered, pricing, sales timing, and geographic distribution.
